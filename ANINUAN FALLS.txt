@@ -1,0 +1,34 @@
+<html>
+<head> 
+<tittle></title>
+</head><style>
+body{
+background-image:url("FALLS2.jpeg");
+background-repeat:no repeat;
+background-size:cover;
+background-position:center;
+background-blur;
+}
+</style>
+<center><h1 style="font-size:60px; background-color:green;color:white;font-cooperblack;">
+ANINUAN FALLS</h1></center></h1>
+<center><h2 style="font-size:60px; background-color:gray;color:black;font-family;">
+
+
+<hr>
+<h3 style="font-size:40px;color:white;font-family;"><marquee>
+TOURIST SPOT IN THE PHILIPPINES</h3></marquee>
+<image src= "FALLS2.jpeg" height=400>
+<center><h2 style="font-size:20px; background-color:white;color:black;font-family;">
+
+2.Aninuan Falls
+Nestled at the foot of Mt. Malasimbo is Aninuan Falls, a 4-meter waterfall located in Aninuan, Puerto Galera. A 20-30-minute trek will take you to the cool and refreshing water of the falls.
+</font>
+<font><h2><a href="website.html">BACK<a/>
+</font></h2>
+
+
+
+
+</body>
+</html>

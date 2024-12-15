@@ -1,0 +1,33 @@
+<html>
+<head> 
+<tittle></title>
+</head><style>
+body{
+background-image:url("FALLS1.jpeg");
+background-repeat:no repeat;
+background-size:cover;
+background-position:center;
+}
+
+
+</style>
+<center><h1 style="font-size:50px; background-color:green;color:white;font-cooperblack;">
+TAKURAN FALLS</h1></center></h1>
+<center><h2 style="font-size:50px; background-color:gray;color:black;font-family;">
+fddddddddd
+
+<hr>
+<image src= "FALLS1.jpeg" height=200;>
+<center><h2 style="font-size:20px; background-color:white;color:black;font-family;">
+
+1.Tukuran Falls, located in Sitio Ibuye, San Teodoro, Oriental Mindoro, is a hidden gem.  Its name, "Tukuran," comes from the surrounding "tukud-tukod" rocks. While not as famous as other waterfalls, its unique charm lies in its adventurous access—a carabao-cart ride or a 30-minute trek and river wade with a local guide—and its own distinct beauty.</font>
+<font><h2><a href="website.html">BACK<a/>
+</font></h2>
+<h3 style="font-size:15px;color:white;font-family;"><marquee>
+TOURIST SPOT IN THE PHILIPPINES</h3></marquee></hr>
+ fdfg
+
+
+
+</body>
+</html>
